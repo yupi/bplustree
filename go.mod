@@ -1,5 +1,5 @@
 module bplustree
 
-go 1.18
+go 1.23
 
-require golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
+require golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
